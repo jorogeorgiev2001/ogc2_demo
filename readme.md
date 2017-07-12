@@ -1,1 +1,1 @@
-#OGC2 demo app
+OGC2 demo app
